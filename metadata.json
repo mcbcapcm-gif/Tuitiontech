@@ -1,0 +1,6 @@
+{
+  "name": "TuitionDesk - Tuition Centre Management",
+  "description": "Mobile-first web app for Indian tuition centres: fee WhatsApp reminders, attendance absent alerts, test ranks & 6-test bar charts, parent UPI view, and owner dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
